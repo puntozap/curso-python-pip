@@ -10,6 +10,7 @@ python3 main.py
 ```
 glit clone
 cd app
+python3 -m venv venv
 .\venv\Scripts\activate
 pip3 install -r requeriments.txt
 python3 main.py
