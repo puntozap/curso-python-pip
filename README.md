@@ -6,7 +6,7 @@ cd game
 python3 main.py
 ```
 
-#App Project
+# App Project
 ```
 glit clone
 cd app
